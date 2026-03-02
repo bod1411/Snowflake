@@ -1,0 +1,1 @@
+drop semantic view MCP_DB.MCP_SCHEMA.EMPLOYEE_SEMANTIC_MODEL
